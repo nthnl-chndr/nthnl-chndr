@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Nathanael Chandra Aditya
+- 👀 I’m interested in Technology
+- 🌱 I’m currently learning Front-End Development
+- 💞️ I’m looking someone to collaborate on my personal website
+- 📫 Search anywhere using my name "nthnlchndr". I'm using that name for everything :)
